@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/tomd/Projects/nku/csc_485/csc415_06_1_Espress_for_UI_testing/step_3/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "/home/tomd/.gradle/caches/transforms-2/files-2.1/1d67b5cd9d66be257c30d877687a2b06/appcompat-v7-26.1.0/res/values-v18/values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}

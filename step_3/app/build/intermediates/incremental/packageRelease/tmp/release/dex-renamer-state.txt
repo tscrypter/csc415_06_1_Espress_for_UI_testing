@@ -1,0 +1,4 @@
+#Sun Dec 13 13:16:32 EST 2020
+base.0=/home/tomd/Projects/nku/csc_485/csc415_06_1_Espress_for_UI_testing/step_3/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
